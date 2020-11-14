@@ -1,8 +1,8 @@
 # ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM 
-# PHẦN MỀM QUẢN LÝ ĐIỆN THOẠI DI ĐỘNG 
-## THÀNH VIÊN NHÓM 
+## PHẦN MỀM QUẢN LÝ ĐIỆN THOẠI DI ĐỘNG 
+### THÀNH VIÊN NHÓM 
 
-|| ST || MSSV      ||    TÊN THÀNH VIÊN    ||
+|| STT ||  MSSV    ||    TÊN THÀNH VIÊN    ||
 =============================================
 ||  1 |            | Lưu Anh Đức           ||
 ||  2 |            | Tạ Nguyên Hiếu        ||
