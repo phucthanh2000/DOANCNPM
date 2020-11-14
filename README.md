@@ -1,4 +1,5 @@
 # ĐỒ ÁN CÔNG NGHỆ PHẦN MỀM 
+![WELCOME](https://images.app.goo.gl/g7rVKhdumwBMoJ3aA)
 ## PHẦN MỀM QUẢN LÝ ĐIỆN THOẠI DI ĐỘNG 
 ## THÀNH VIÊN NHÓM 
 | STT |   MSSV    |   TÊN THÀNH VIÊN      |
