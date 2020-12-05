@@ -1,8 +1,0 @@
-	CỬA HÀNG KINH DOANH XE MÁY VIỆT NAM
-		HÓA ĐƠN BÁN HÀNG
-Mã hóa đơn: HD01
-Mã nhân viên: NV01
-Tên khách hàng: Trần Huy
-Tên sản phẩm: SH 
-Thành tiền: 1500000.0 đồng
-		Ngày lập: 2020-11-30
